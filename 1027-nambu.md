@@ -244,3 +244,5 @@ PDF 변환에 필요한 기본 도구를 먼저 설치합니다.
 <a href="https://css-tricks.com/" target="_blank">
     <button>CSS Tricks</button>
 </a>
+
+이승태 공저
