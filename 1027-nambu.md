@@ -156,6 +156,8 @@ img, span.emoji {
 
 ---
 
+<h3 id="intro"></h3>
+
 ## 소개
 
 ```
@@ -163,6 +165,8 @@ Markdown은 간단한 문법과 다양한 확장성 덕분에 개발자와 콘�
 ```
 
 ---
+
+<h3 id=advantages"></h3>
 
 ## Markdown의 주요 장점
 
@@ -174,6 +178,8 @@ Markdown은 간단한 문법과 다양한 확장성 덕분에 개발자와 콘�
 
 ---
 
+<h3 id="benefits"></h3>
+
 ## Markdown → PDF 전환의 이점
 
 Markdown을 PDF로 변환하면 다음과 같은 이점이 있습니다:
@@ -184,6 +190,8 @@ Markdown을 PDF로 변환하면 다음과 같은 이점이 있습니다:
 <div style="page-break-after: always;"></div>
 
 ---
+
+<h3 id="guide"></h3>
 
 ## 단계별 구현 가이드 🛠️
 
@@ -210,6 +218,8 @@ PDF 변환에 필요한 기본 도구를 먼저 설치합니다.
 
 ### 4️⃣ PDF로 변환
 
+<h3 id="checklist"></h3>
+
 ## 학습 체크리스트 ✅
 
 - [x] Markdown 기본 문법 학습
@@ -217,6 +227,8 @@ PDF 변환에 필요한 기본 도구를 먼저 설치합니다.
 - [ ] CSS로 PDF 스타일 커스터마이징
 - [ ] Pandoc을 활용한 PDF 생성 실습
 - [ ] 최적화된 PDF 출력물 제작
+
+<h3 id="references"></h3>
 
 ## 참고자료 📚
 
